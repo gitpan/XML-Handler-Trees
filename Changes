@@ -1,0 +1,6 @@
+Revision history for Perl extension XML::Handler::Trees.
+
+0.01  Wed Jul 25 05:18:25 2001
+	- original version; created by h2xs 1.21 with options
+		-X -n XML::Handler::Trees
+
